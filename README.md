@@ -35,7 +35,6 @@ You can use the website to generate badges: https://shields.io/
 - Prior to becoming an instructor I was a software engineer for over 25 years.
 - I love writing code but have realized I have a passion for teaching and mentoring students.
 - Fun-Fact: My first computer was the [APF Imagination Machine](https://en.wikipedia.org/wiki/APF_Imagination_Machine).
-- How to reach me: __yoav@yoavmorahg.com__
 
 ---
 

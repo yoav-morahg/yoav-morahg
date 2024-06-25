@@ -30,8 +30,9 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 **About Me:**
 
-- I’m currently a coding bootcamp instructor.
-- I currently teach __Java__, __SQL__, __APIs using SpringBoot__, __HTML__, __CSS__, __JavaScript__, & __Vue.js__.
+- I am in the process of relocating to Porto, Portual and will be focusing on freelance instruction and development opprtunities once settled.
+- I recently wrapped up almost 4 years as a coding bootcamp instructor.
+- I have taught __Java__, __SQL__, __APIs using SpringBoot__, __HTML__, __CSS__, __JavaScript__, & __Vue.js__.
 - Prior to becoming an instructor I was a software engineer for over 25 years.
 - I love writing code but have realized I have a passion for teaching and mentoring students.
 - Fun-Fact: My first computer was the [APF Imagination Machine](https://en.wikipedia.org/wiki/APF_Imagination_Machine).

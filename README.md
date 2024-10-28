@@ -30,11 +30,11 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 **About Me:**
 
-- I am in the process of relocating to Porto, Portual and will be focusing on freelance instruction and development opprtunities once settled.
-- I recently wrapped up almost 4 years as a coding bootcamp instructor.
-- I have taught __Java__, __SQL__, __APIs using SpringBoot__, __HTML__, __CSS__, __JavaScript__, & __Vue.js__.
+- I recently relocated to Porto, Portugal and will be focusing on freelance instruction and development.
+- Prior to relocating, I worked for almost 4 years as a full-stack web development bootcamp instructor based in Philadelphia.
+- I have taught and coded __Java__, __SQL__, __APIs using SpringBoot__, __HTML__, __CSS__, __JavaScript__, & __Vue.js__.
 - Prior to becoming an instructor I was a software engineer for over 25 years.
-- I love writing code but have realized I have a passion for teaching and mentoring students.
+- I love writing code but have realized I also have a passion for teaching and mentoring students.
 - Fun-Fact: My first computer was the [APF Imagination Machine](https://en.wikipedia.org/wiki/APF_Imagination_Machine).
 
 ---
